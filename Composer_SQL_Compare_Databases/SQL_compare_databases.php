@@ -9,7 +9,7 @@ use PhpOffice\PhpSpreadsheet\Writer\Xlsx;
 $server = '***bauflows***';
 $db1 = '********';
 $db2 = '********';
-$user = 'sa';
+$user = '***';
 $pass = '**********';
 
 // Connection options
